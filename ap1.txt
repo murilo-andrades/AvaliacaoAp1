@@ -1,0 +1,8 @@
+1 - dei cd no git bash, colando o local da minha pasta;
+2 - dei git clone e colei o link do meu repositório;
+3 - dei ls para ver se abriu corretamente;
+5 - dei um cd AvaliacaoAp1 para entrar na pasta;
+4 - criei meu arquivo txt e para subir pro GitHub;
+5 - dei git status para ver o que deveria ser commitado;
+6 - dei git add para adicionar na sacola; 
+7 - dei git commit -m para enviar ao GitHub;
