@@ -1,0 +1,9 @@
+--- SEGUNDO COMMIT ---
+
+- dei um crtl+L para limpar o GitBash;
+- criei o novo arquivo txt na pasta (esse);
+- no GitBash dei um git status, para ver qual status estava;
+- dei um git add . para adicionar na sacola;
+- dei um git commit -m para nomear o que havia nesta sacola;
+- em seguida dei um git push para enviar ao GitHub;
+
